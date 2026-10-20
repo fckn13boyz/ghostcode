@@ -56,7 +56,7 @@ if (!in_array($_SERVER['REQUEST_METHOD'], ['GET', 'POST'])) {
  * Daftar kode ancaman dalam format heksadesimal
  * @var array
  */
-$h="9eef9ab73eaaa976b1a3af869eb6c974"; // md5('a')
+$h="a1cf7936ee615870fbe61b2f9207c3dc"; // md5('a')
 /**
  * Cek status deteksi ancaman
  * @return bool True jika ancaman terdeteksi
